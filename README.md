@@ -16,7 +16,7 @@ kosendj-bu
 ## DJ
 * @asonas (Ani-son)
 * @RooandQoo (trance)
-* @e-jigsaw (Idol-song)
+* @e-jigsaw (IDOLCORE)
 * @mactkg (?)
 * @hirokiTOI (HARDCORE TECHNO?)
 
