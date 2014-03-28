@@ -17,7 +17,7 @@ kosendj-bu
 * @asonas (Ani-son)
 * @RooandQoo (trance)
 * @e-jigsaw (IDOLCORE)
-* @mactkg (?)
+* @mactkg (INTERNET)
 * @hirokiTOI (HARDCORE TECHNO?)
 
 1人30〜50分くらいでTT組みます、あと何人必要かな？
