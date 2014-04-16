@@ -16,11 +16,11 @@ KosenDJ-bu #1(#1いるかな？)
 ## DJ
 * 40m DJ 顧問 a.k.a. @asonas (Ani-son)
 * 50m DJ 部長 a.k.a. @RooandQoo (trance)
-* 30m DJ 副部長 a.k.a. @e-jigsaw (IDOLCORE)
+* 40m DJ 副部長 a.k.a. @e-jigsaw (IDOLCORE)
 * 30m @mactkg (INTERNET)
 * 40m @hirokiTOI (HARDCORE TECHNO?)
 * 30m @maccha
-* 合計 220m / 300m
+* 合計 230m / 300m
 
 1人30〜50分くらいでTT組みます、あと何人必要かな？
 
