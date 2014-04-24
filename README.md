@@ -19,7 +19,7 @@ KosenDJ-bu #1(#1いるかな？)
 * 40m DJ 副部長 a.k.a. @e-jigsaw (IDOLCORE)
 * 30m @mactkg (INTERNET)
 * 40m @hirokiTOI (HARDCORE TECHNO?)
-* 30m @maccha
+* 30m @maccha (game music)
 * 合計 230m / 300m
 
 1人30〜50分くらいでTT組みます、あと何人必要かな？
