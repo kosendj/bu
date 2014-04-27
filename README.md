@@ -4,13 +4,16 @@ kosendj-bu
 高専DJ部イベント開催用リポジトリ
 
 # イベントタイトル
-KosenDJ-bu #1(#1いるかな？)
+KosenDJ-bu #1
 
 # 日程
-5/30(土) 15:00〜20:00 予定
+5/30(土) 15:00〜21:00
 
 # 場所
-検討中(sabacoが第1候補)
+
+* sabaco
+* 東京都新宿区西早稲田 2-1-19 YKビルB1F
+* http://sabaco.jp/access/
 
 # 出演
 ## DJ
@@ -20,12 +23,17 @@ KosenDJ-bu #1(#1いるかな？)
 * 30m @mactkg (INTERNET)
 * 40m @hirokiTOI (HARDCORE TECHNO?)
 * 30m @maccha (game music)
-* 合計 230m / 300m
+* ??m TBD (invitee)
+* ??m TBD (invitee)
+* 50m frkout
+* 合計 280m / 360m
 
 1人30〜50分くらいでTT組みます、あと何人必要かな？
 
 ## TJ(Tumblr Jockey)
-参加者のrblgがスクリーンに表示される？詳細追記求む
+
+kosenDJ-buにはVJが居ないので会場から気軽にVJができるようなWebアプリケーションを用意します。
+URLなどはまだ未定
 
 # その他
 * フライヤーデザイン
