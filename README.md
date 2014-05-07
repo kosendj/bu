@@ -22,16 +22,16 @@ KosenDJ-bu #1
 
 # 出演
 ## DJ
-* 40m DJ 顧問 a.k.a. @asonas (Ani-son)
+* 30m DJ 顧問 a.k.a. @asonas (Ani-son)
 * 50m DJ 部長 a.k.a. @RooandQoo (trance)
 * 40m DJ 副部長 a.k.a. @e-jigsaw (IDOLCORE)
 * 30m @mactkg (INTERNET)
 * 40m @hirokiTOI (HARDCORE TECHNO?)
 * 30m @maccha (game music)
-* ??m TBD (invitee)
-* ??m TBD (invitee)
+* 30m TBD (invitee)
+* 30m TBD (invitee)
 * 50m frkout
-* 合計 280m / 360m
+* 合計 330m / 360m(6h)
 
 1人30〜50分くらいでTT組みます、あと何人必要かな？
 
