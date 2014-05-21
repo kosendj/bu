@@ -7,7 +7,7 @@ kosendj-bu
 KosenDJ-bu #1
 
 # 日程
-5/30(土) 15:00〜21:00
+5/31(土) 15:00〜21:00
 
 # チケット
 
@@ -21,19 +21,17 @@ KosenDJ-bu #1
 * http://sabaco.jp/access/
 
 # 出演
-## DJ
-* 30m DJ 顧問 a.k.a. @asonas (Ani-son)
-* 50m DJ 部長 a.k.a. @RooandQoo (trance)
-* 40m DJ 副部長 a.k.a. @e-jigsaw (IDOLCORE)
-* 30m @mactkg (INTERNET)
-* 40m @hirokiTOI (HARDCORE TECHNO?)
-* 30m @maccha (game music)
-* 30m TBD (invitee)
-* 30m TBD (invitee)
-* 50m frkout
-* 合計 330m / 360m(6h)
-
-1人30〜50分くらいでTT組みます、あと何人必要かな？
+## DJ / TT
+* 15:00 toihrk (HARDCORE TECHNO)
+* 15:40 y_taq (HARDCORE TECHNO)
+* 16:10 XEN (HARDSTYLE)
+* 16:40 八嶋 (DRUM'N'BASS)
+* 17:10 maccha (GAME MUSIC)
+* 17:40 DJ 副部長 a.k.a. jigsaw (IDOLCORE)
+* 18:20 mactkg (INTERNET)
+* 18:50 DJ 顧問 a.k.a. asonas (NERD)
+* 19:20 便座チープネス (HIPHOP)
+* 20:10 DJ 部長 a.k.a. RooandQoo (TRANACE)
 
 ## TJ(Tumblr Jockey)
 
@@ -42,7 +40,7 @@ URLなどはまだ未定
 
 # その他
 * フライヤーデザイン
- - @npyama にお願いする？(おまかせあれ~ @e-jigsaw)
+ - @npyama にお願い
 
 * 特設サイト
  - ロゴがもうある
