@@ -36,13 +36,4 @@ KosenDJ-bu #2
 
 ## TJ(Tumblr Jockey)
 
-
-# その他
-* フライヤーデザイン
- - @npyama にお願い
-
-* 特設サイト
- - ロゴがもうある
- - デザイン @npyama
- - コーディング @e-jigsaw
-
+* 改修します(@e-jigsaw)
