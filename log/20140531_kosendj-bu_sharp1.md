@@ -4,15 +4,15 @@ kosendj-bu
 高専DJ部イベント開催用リポジトリ
 
 # イベントタイトル
-KosenDJ-bu #2
+KosenDJ-bu #1
 
 # 日程
-8/31(日) 13:00〜19:00
+5/31(土) 15:00〜21:00
 
 # チケット
 
 2000円
-(ワンドリンクつき)
+(ワンドリンクだったか確認します @asonas)
 
 # 場所
 
@@ -22,7 +22,6 @@ KosenDJ-bu #2
 
 # 出演
 ## DJ / TT
-こちらは#1のものです
 * 15:00 toihrk (HARDCORE TECHNO)
 * 15:40 y_taq (HARDCORE TECHNO)
 * 16:10 XEN (HARDSTYLE)
@@ -36,6 +35,8 @@ KosenDJ-bu #2
 
 ## TJ(Tumblr Jockey)
 
+kosenDJ-buにはVJが居ないので会場から気軽にVJができるようなWebアプリケーションを用意します。
+URLなどはまだ未定
 
 # その他
 * フライヤーデザイン
